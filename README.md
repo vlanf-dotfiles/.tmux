@@ -8,7 +8,8 @@ cd ~/.tmux
 git submodule update --init
 ./setup.sh
 ```
-4. Enjoy
+4. In tmux run `prefix` + `I`
+5. Enjoy
 
 ## Keybindings
 
